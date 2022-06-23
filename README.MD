@@ -7,6 +7,9 @@ cd zsign
 mkdir build; cd build &&
 cmake .. &&
 make
+echo Finished!
 ```
 
 The compiling part might take 5 minutes so don't let your device turn off
+
+Once the comping process is complete you can run ./zsign
