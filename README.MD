@@ -1,4 +1,7 @@
 Get The iSH App From https://apps.apple.com/us/app/ish-shell/id1436902243
+
+Run These Commands
+
 ```
 apk add wget openssl git zip unzip build-base zlib-dev openssl-dev cmake
 wget https://appinstallerios.com/Zsign/zsign.zip
