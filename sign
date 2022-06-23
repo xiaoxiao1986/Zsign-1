@@ -1,5 +1,0 @@
-cd /root/IPAS
-for i in *.ipa ; do
-echo $i
-zsign -k /root/cert/x.pem -p password -m /root/cert/x.mobileprovision -o $i -z 9 $i
-done
