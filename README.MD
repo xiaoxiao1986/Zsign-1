@@ -7,6 +7,7 @@ cd zsign
 mkdir build; cd build &&
 cmake .. &&
 make
+cp zsign /bin
 echo Finished!
 ```
 
